@@ -1,4 +1,4 @@
-package com.ahuratus.SocialHabit;
+package com.socialhabit.backend;
 
 /**
  * Hello world!

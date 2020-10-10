@@ -1,4 +1,4 @@
-package com.ahuratus.SocialHabit;
+package com.socialhabit.backend;
 
 import static org.junit.Assert.assertTrue;
 
